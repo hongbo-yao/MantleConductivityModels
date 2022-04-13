@@ -15,3 +15,6 @@ SwarmSatMag_8years_3jumps_inverse_model: using data from 26/11/2013 to 31/12/202
 Column #1: the depth of each layer's top interface (km)
 
 Column #2: conductivity of each layer (S/m)
+
+# Reference
+Yao H, Ren Z*,  Pan K, Tang J, Zhang K. A global mantle conductivity model derived from 8 years of Swarm satellite magnetic data. Earth and Planetary Physics, 2022, under review.
