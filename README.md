@@ -27,4 +27,4 @@ Column #3: imaging part of C-responses in km
 Column #4: uncertainty of C-responses in km
 
 # Reference
-Hongbo Yao, Zhengyong Ren*, Kejia Pan, Jingtian Tang, Keke Zhang. A global mantle conductivity model derived from 8 years of Swarm satellite magnetic data. Earth and Planetary Physics, 2022, under review
+Hongbo Yao, Zhengyong Ren*, Kejia Pan, Jingtian Tang, Keke Zhang. 2023: A global mantle conductivity model derived from 8 years of Swarm satellite magnetic data. Earth and Planetary Physics. doi: 10.26464/epp2023011
