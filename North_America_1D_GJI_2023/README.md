@@ -12,4 +12,4 @@ Column #1: the depth of each layer's top interface (m)
 Column #2: conductivity of each layer (log10 S/m)
 
 ### Reference
-- Hongbo Yao, Zhengyong Ren*, Jingtian Tang, Rongwen Guo, Jiayong Yan. Trans-dimensional Bayesian joint inversion of magnetotelluric and geomagnetic depth sounding responses to constrain mantle electrical discontinuities. Geophysical Journal International, 2023, 233(3), 1821-1846. https://doi.org/10.1093/gji/ggad029
+Hongbo Yao, Zhengyong Ren*, Jingtian Tang, Rongwen Guo, Jiayong Yan. Trans-dimensional Bayesian joint inversion of magnetotelluric and geomagnetic depth sounding responses to constrain mantle electrical discontinuities. Geophysical Journal International, 2023, 233(3), 1821-1846. https://doi.org/10.1093/gji/ggad029
